@@ -1,0 +1,3 @@
+First time participating in the USACO.
+
+Unfortunately, while these solutions did recieve a perfect score, and promoted me to silver in-contest, I was unable to begin the silver problems due to time constraints.

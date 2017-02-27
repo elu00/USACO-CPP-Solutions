@@ -14,4 +14,21 @@ Solutions to contest problems will be updated similiarily; I'll be updating thes
 
 Hope you find this repo useful!
 
+## Useful Copy-Paste snippets
+~~~~
+//Header Comment Template for training
+/*
+ID:
+LANG: C++11
+PROG:
+*/
+//include directives for I/O and most programs
+#include <fstream>
+#include <vector>
+...
+//initial I/O, use as you would cin and cout
+ifstream fin("<prog>.in");
+ofstream fout("<prog>.out");
+~~~~
+
 Copyright (c) 2017 Ethan Lu. See LICENSE file for further details.
